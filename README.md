@@ -1,3 +1,5 @@
 # Descripción:
 
-Esta es una descripción random d emi proyecto.
+Esta es una descripción random de mi proyecto.
+
+Este es otro párrafo de prueba.
